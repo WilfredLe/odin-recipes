@@ -1,0 +1,20 @@
+* {
+    font-family: 'Times New Roman', Verdana, sans-serif;
+}
+
+html {
+    background-color: rgb(238, 181, 75);
+}
+
+h1 {
+    color: teal;
+    text-align: center;
+    font-size: 60px;
+    text-decoration-line: underline;
+}
+
+li {
+    color: salmon;
+    text-align: left;
+    font-size: 35px;
+}
